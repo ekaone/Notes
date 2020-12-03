@@ -52,5 +52,13 @@
 
 ## 🍽🚯 React Hook Form
 - [Demo](https://ekaone.github.io/ReactHookForm-Goodies/)
-- [Repository](https://github.com/ekaone/ReactHookForm-Goodies
+- [Repository](https://github.com/ekaone/ReactHookForm-Goodies)
+
+## 💻💾 EMS Adiraja mock-up
+- [Demo](https://ekaone.github.io/EMS-Solution/)
+- [Repository](https://github.com/ekaone/EMS-Solution)
+
+## 💲🤑 Expense Tracker
+- [Demo](https://ekaone.github.io/Expense-Tracker/)
+- [Repository](https://github.com/ekaone/Expense-Tracker)
 
