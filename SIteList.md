@@ -81,3 +81,13 @@
 ## 📰🗞 Portfolio list in Markdown
 - [Demo](https://ekaone.github.io/Portfolio-Markdown/)
 - [Repository](https://github.com/ekaone/Portfolio-Markdown)
+
+## 🔑🔐 Gatsby Authentication, simple app used local storage as data store
+- [Demo](https://ekaone.github.io/Gatsby-Authentication/)
+- [Repository](https://github.com/ekaone/Gatsby-Authentication)
+
+## 🕸💻 Simple config for deployment with Vercel now and ExpressJS
+- [Demo](https://deploy-now-express.now.sh/)
+- [Repository](https://github.com/ekaone/Deploy-Now-Express)
+
+
