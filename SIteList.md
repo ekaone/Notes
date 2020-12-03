@@ -38,3 +38,19 @@
 - [Demo](https://ekaone.github.io/Mock-API/)
 - [Repository](https://github.com/ekaone/Mock-API)
 
+## 🗄🚡 Drag and Drop files with react-dropzone
+- [Demo](https://ekaone.github.io/Dropzone-Files/)
+- [Repository](https://github.com/ekaone/Dropzone-Files)
+
+## 💸🎭 React + Anime JS works with CSS properties, SVG, DOM attributes and JavaScript Objects
+- [Demo](https://ekaone.github.io/Anime-JS/)
+- [Repository](https://github.com/ekaone/Anime-JS)
+
+## 🤼😩 Waiting List on your front desk
+- [Demo](https://ekaone.github.io/Waiting-List/)
+- [Repository](https://github.com/ekaone/Waiting-List)
+
+## 🍽🚯 React Hook Form
+- [Demo](https://ekaone.github.io/ReactHookForm-Goodies/)
+- [Repository](https://github.com/ekaone/ReactHookForm-Goodies
+
