@@ -62,3 +62,22 @@
 - [Demo](https://ekaone.github.io/Expense-Tracker/)
 - [Repository](https://github.com/ekaone/Expense-Tracker)
 
+## Collection Apps | 🛠 in progress 🛠
+- [Demo](https://twolevel.net/)
+- [Repository](https://github.com/ekaone/Twolevel)
+
+## 📚🌈 Formik form work together with Material UI and Yup
+- [Demo](https://ekaone.github.io/useFormik/)
+- [Repository](https://github.com/ekaone/useFormik)
+
+## 😇💢 Swiper is the most modern free mobile touch slider
+- [Demo](https://ekaone.github.io/React-Swiper/)
+- [Repository](https://github.com/ekaone/React-Swiper)
+
+## 🍕🍰 Slideshow powered training repository
+- [Demo](https://ekaone.github.io/github-slideshow/)
+- [Repository](https://github.com/ekaone/github-slideshow)
+
+## 📰🗞 Portfolio list in Markdown
+- [Demo](https://ekaone.github.io/Portfolio-Markdown/)
+- [Repository](https://github.com/ekaone/Portfolio-Markdown)
